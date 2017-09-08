@@ -1,0 +1,24 @@
+{
+  "name": "meetupnodejs",
+  "version": "0.0.1",
+  "description": "create meetup with mustache, nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apdil/meetupNodeJs.git"
+  },
+  "author": "apdil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apdil/meetupNodeJs/issues"
+  },
+  "homepage": "https://github.com/apdil/meetupNodeJs#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5"
+  }
+}
